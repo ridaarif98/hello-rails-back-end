@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  # root 'greetings#index'
   get 'greetings/index'
   scope '/api' do
     resources :greetings, only: [:index]

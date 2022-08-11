@@ -1,24 +1,81 @@
-# README
+# Hello-rails-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Hello-react-front-end
 
-* System dependencies
+- [Hello-react](https://github.com/ridaarif98/hello-react-front-end)
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Ruby on Rails
+- Postgresql
+- Bootstrap
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+**To get a local copy up and running follow these simple example steps:**
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rails](https://gorails.com/)
 
-* Deployment instructions
+### Setup
 
-* ...
+- Make sure you have Ruby on Rails set up properly on your computer
+
+``` sh 
+  git git@github.com:ridaarif98/hello-rails-back-end.git
+``` 
+``` sh 
+  cd hello-rails-back-end
+```
+
+### Install
+
+```sh
+  bundle install
+```
+
+```sh
+  npm install
+```
+### Run
+
+```
+  rails db: create
+```
+
+```
+  rails db:migrate
+```
+
+```
+  rails s
+```
+
+### Test
+
+```sh
+  rspec
+```
+### Usage
+
+To start Budget app you need to first `signup`
+
+## Author
+
+👤 **Rida Arif**
+
+- GitHub: [@ridaarif98](https://github.com/ridaarif98)
+- Twitter: [@ridaarif](https://twitter.com/Rida29984906)
+- LinkedIn: [Rida Arif](https://www.linkedin.com/in/rida-arif-90945520b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+- Feel free to check the [issues page](https://github.com/ridaarif98/Budget-app/issues).
+
+## Show your support
